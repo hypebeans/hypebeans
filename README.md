@@ -4,6 +4,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a freelance graphic designer, translator, and web developer.<br>
+I usually contributed translations through [Crowdin](https://crowdin.com/profile/hypebeans)<br>
 If you know me from several Discord servers, I'm also a blockchain & cryptocurrency enthusiast!<br>
 I usually store my code or productive files in this platform, so feel free to check it out in case you need more references!<br>
 Most of them are JavaScript-based since I love front-developing! 🤗
@@ -28,4 +29,4 @@ Most of them are JavaScript-based since I love front-developing! 🤗
 </a>
 </details>
 
-<italic>Last updated: 7 Apr 2020</italic>
+<italic>Last updated: 16 Apr 2021</italic>
