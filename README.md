@@ -1,15 +1,18 @@
-[![twitter](http://img.shields.io/badge/-hypebeans-1ca0f1?style=flat-square&logo=twitter&logoColor=1da1f2&labelColor=e1e4e8&color=191919&link=https://twitter.com/hypebeans)](https://twitter.com/hypebeans)  [![web](https://img.shields.io/badge/-https://linktr.ee/hypebeans-1ca0f1?style=flat-square&logo=Discover&logoColor=ff6000&labelColor=e1e4e8&color=191919&link=https://linktr.ee/hypebeans)](https://linktr.ee/hypebeans)
-![hypebeans profile view count](https://komarev.com/ghpvc/?username=hypebeans&color=191919&labelColor=fdfdfd)
+[![Hypebeans Information](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hypebeans)
+[![Hypebeans Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hypebeans)
+[![Hypebeans Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hypebeans)
+[![Hypebeans Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/hypebeans)
+[![Hypebeans Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@hypebeans)
+<br>
+![Hypebeans Profile View Count](https://komarev.com/ghpvc/?username=hypebeans&style=flat-square&color=lightgrey)
+
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a freelance graphic designer, translator, and web developer.<br>
-I usually contributed translations through [Crowdin](https://crowdin.com/profile/hypebeans)<br>
+I'm a freelance graphic designer, translator, proofreader and web developer.<br>
 If you know me from several Discord servers, I'm also a blockchain & cryptocurrency enthusiast!<br>
-I usually store my code or productive files in this platform, so feel free to check it out in case you need more references!<br>
-Most of them are JavaScript-based since I love front-developing! 🤗
 
-## Facts
+## Some Facts
 - ☕️  Coffee and design enthusiast!
 - 📈  Long term cryptocurrency HODLer
 - 🌱  Currently learning stuffs that I'm curious about!
@@ -29,4 +32,4 @@ Most of them are JavaScript-based since I love front-developing! 🤗
 </a>
 </details>
 
-<italic>Last updated: 16 Apr 2021</italic>
+<italic>Last updated: 17 Apr 2021</italic>
