@@ -16,10 +16,10 @@ If you know me from several Discord servers, I'm also a blockchain & cryptocurre
 - ☕️  Coffee and design enthusiast!
 - 📈  Long term cryptocurrency HODLer
 - 🌱  Currently learning stuffs that I'm curious about!
-- 💪  2021 goals I need to achieve: Able to master blockchain, create NFTs!
-- 👨🏻‍💻  I love to play rhythm games, drawing, watching anime, skating and brewing coffee!
+- 💪  2022 goals I need to achieve: Able to master blockchain, create NFTs!
+- 👨🏻‍💻  I love to play rhythm games, drawing, watching anime, reading books, skating and brewing coffee!
 - 🎵  My music preferences are way too unique!
-- 👑  プリコネ is my all-time favorite mobile game!
+- 👑  ~~プリコネ is my all-time favorite mobile game!~~ Investments are kings!
 
 ## Statistics
 <details>
