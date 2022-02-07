@@ -9,7 +9,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a freelance graphic designer, translator, proofreader and web developer.<br>
+~~I'm a freelance graphic designer, translator, proofreader and web developer.~~Forever a student 👁👄👁<br>
 If you know me from several Discord servers, I'm also a blockchain & cryptocurrency enthusiast!<br>
 
 ## Some Facts
@@ -17,7 +17,7 @@ If you know me from several Discord servers, I'm also a blockchain & cryptocurre
 - 📈  Long term cryptocurrency HODLer
 - 🌱  Currently learning stuffs that I'm curious about!
 - 💪  2022 goals I need to achieve: Able to master blockchain, create NFTs!
-- 👨🏻‍💻  I love to play rhythm games, drawing, watching anime, reading books, skating and brewing coffee!
+- 👨🏻‍💻  I love to play rhythm games, drawing, watching, reading books, and brewing coffee!
 - 🎵  My music preferences are way too unique!
 - 👑  ~~プリコネ is my all-time favorite mobile game!~~ Investments are kings!
 
@@ -32,4 +32,4 @@ If you know me from several Discord servers, I'm also a blockchain & cryptocurre
 </a>
 </details>
 
-<italic>Last updated: 17 Apr 2021</italic>
+<italic>Last updated: 07 Feb 2022</italic>
