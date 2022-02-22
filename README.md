@@ -14,11 +14,13 @@ If you know me from several Discord servers, I'm also a blockchain & cryptocurre
 
 ## Some Facts
 - ☕️  Coffee and design enthusiast!
-- 📈  Long term cryptocurrency HODLer
+- 📈  Long term cryptocurrency HODLer ✅
 - 🌱  Currently learning stuffs that I'm curious about!
 - 💪  2022 goals I need to achieve: Able to master blockchain, web3, NFTs!
-- 👨🏻‍💻  ![Goodreads](https://goodreads.com) : Please DM to one of my social medias or Discord to see my reading lists! 🥰
-- 🎵  My music preferences are way too unique
+- 👨🏻‍💻  I often use [Goodreads](https://goodreads.com) to track my readings! (Please DM through one of my social medias or Discord to see my reading lists! 🥰)
+- 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
+- 🍡  Casually watching anime & reading light-novels/mangas via [MyAnimeList](https://myanimelist.net/profile/hypebeans)
+- 🎵  My music preferences are way too unique!
 - 👑  ~~プリコネ is my all-time favorite mobile game!~~ Investments are kings!
 
 ## Statistics
@@ -32,4 +34,4 @@ If you know me from several Discord servers, I'm also a blockchain & cryptocurre
 </a>
 </details>
 
-<italic>Last updated: 17 Feb 2022</italic>
+<italic>Last updated: 22 Feb 2022</italic>
