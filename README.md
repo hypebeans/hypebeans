@@ -9,14 +9,14 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-~~I'm a freelance graphic designer, translator, proofreader and web developer.~~ Forever a student 👁👄👁<br>
+~~I'm a freelance translator, proofreader and web developer.~~ Forever a student 👁👄👁<br>
 If you know me from several Discord servers, I'm also a blockchain & cryptocurrency enthusiast!<br>
 
 ## Some Facts
 - ☕️  Coffee and design enthusiast!
 - 📈  Long term cryptocurrency HODLer ✅
 - 🌱  Currently learning stuffs that I'm curious about!
-- 💪  2022 goals I need to achieve: Able to master blockchain, web3, NFTs!
+- 💪  2023 goals I need to achieve: Able to master blockchain, web3, NFTs!
 - 👨🏻‍💻  I often use [Goodreads](https://goodreads.com) to track my readings! (Please DM through one of my social medias or Discord to see my reading lists! 🥰)
 - 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
 - 🍡  Casually watching anime & reading light-novels/mangas via [MyAnimeList](https://myanimelist.net/profile/hypebeans)
@@ -34,4 +34,4 @@ If you know me from several Discord servers, I'm also a blockchain & cryptocurre
 </a>
 </details>
 
-<italic>Last updated: 22 Feb 2022</italic>
+<italic>Last updated: 25 Feb 2023</italic>
