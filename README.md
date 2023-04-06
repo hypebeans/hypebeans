@@ -1,5 +1,3 @@
-[![Hypebeans Information](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hypebeans)
-[![Hypebeans Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hypebeans)
 [![Hypebeans Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hypebeans)
 [![Hypebeans Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/hypebeans)
 [![Hypebeans Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@hypebeans)
@@ -16,7 +14,7 @@ If you know me from several Discord servers, I'm also a blockchain & cryptocurre
 - ☕️  Coffee and design enthusiast!
 - 📈  Long term cryptocurrency HODLer ✅
 - 🌱  Currently learning stuffs that I'm curious about!
-- 💪  2023 goals I need to achieve: Able to master blockchain, web3, NFTs!
+- 💪  2023 goals I need to achieve: Able to master Swift!
 - 👨🏻‍💻  I often use [Goodreads](https://goodreads.com) to track my readings! (Please DM through one of my social medias or Discord to see my reading lists! 🥰)
 - 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
 - 🍡  Casually watching anime & reading light-novels/mangas via [MyAnimeList](https://myanimelist.net/profile/hypebeans)
@@ -34,4 +32,4 @@ If you know me from several Discord servers, I'm also a blockchain & cryptocurre
 </a>
 </details>
 
-<italic>Last updated: 25 Feb 2023</italic>
+<italic>Last updated: 6 Apr 2023</italic>
