@@ -20,6 +20,7 @@ If you know me from several Discord servers, I'm also a blockchain & cryptocurre
 - 🍡  Casually watching anime & reading light-novels/mangas via [MyAnimeList](https://myanimelist.net/profile/hypebeans)
 - 🎵  My music preferences are way too unique!
 - 👑  ~~プリコネ is my all-time favorite mobile game!~~ Investments are kings!
+- 👄 EN/ID/JP/CN (A little)
 
 ## Statistics
 <details>
@@ -32,4 +33,4 @@ If you know me from several Discord servers, I'm also a blockchain & cryptocurre
 </a>
 </details>
 
-<italic>Last updated: 6 Apr 2023</italic>
+<italic>Last updated: 21 Apr 2023</italic>
