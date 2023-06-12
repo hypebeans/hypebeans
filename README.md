@@ -3,12 +3,43 @@
 <br><br>
 ![Hypebeans Profile View Count](https://komarev.com/ghpvc/?username=hypebeans&style=flat-square&color=lightgrey)
 
-Click one of the country flags to display another language: *(In development)* <br>
-
-<img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/c019f3bf-1a8a-47c8-be6e-40eaed34408f" height="48" href="https://www.youtube.com/watch?v=rhcDSzw-MOk">
-<img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/047289ef-c856-4c41-9a0e-223e1988b4a8" height="48" href="https://www.youtube.com/watch?v=rhcDSzw-MOk">
-<img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/29aa007b-e0eb-4c26-99af-26276665856c" height="48" href="https://www.youtube.com/watch?v=rhcDSzw-MOk">
-<img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/677ffca1-4350-4e51-8465-f39a79127f8c" height="48" href="https://www.youtube.com/watch?v=rhcDSzw-MOk">
+Click the link below the country flags to display another language: *(In development)* <br>
+<table>
+<tr>
+  <th>
+    <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/c019f3bf-1a8a-47c8-be6e-40eaed34408f" height="48" />
+  </th>
+  <th>
+    <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/047289ef-c856-4c41-9a0e-223e1988b4a8" height="48" />
+  </th>
+  <th>
+    <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/29aa007b-e0eb-4c26-99af-26276665856c" height="48" />
+  </th>
+  <th>
+    <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/677ffca1-4350-4e51-8465-f39a79127f8c" height="48" />
+  </th>
+  <th>
+    <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/64477e36-fafd-4163-a1c8-620988b4bcf4" height="48" />
+  </th>
+</tr>
+<tr>
+  <td>
+    <a align="center" href="https://www.youtube.com/watch?v=rhcDSzw-MOk">Bahasa Indonesia</a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=rhcDSzw-MOk">English</a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=rhcDSzw-MOk">日本語</a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=rhcDSzw-MOk">中文</a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=rhcDSzw-MOk">Deutsch</a>
+  </td>
+</tr>
+</table>
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
