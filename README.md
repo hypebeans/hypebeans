@@ -44,18 +44,18 @@ Click the link below the country flags to display another language: *(In develop
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ~~I'm a freelance translator, proofreader and web designer.~~ Forever a student 👁👄👁<br>
-If you know me from several Discord servers, I'm also a blockchain & cryptocurrency enthusiast!<br>
+If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 
 ## Some Facts
-- ☕️  Coffee and design enthusiast!
-- 📈  Long term cryptocurrency HODLer ✅
+- ☕️   Coffee and design enthusiast!
+- 🧗  Loves rock climbing, outdoor activities including trekking, and hiking!
 - 🌱  Currently learning stuffs that I'm curious about!
 - 💪  2023 goals I need to achieve: Able to master Swift, Kotlin, Dart, and pass the Java Gold certification exam!
 - 👨🏻‍💻  I often use [Goodreads](https://goodreads.com) to track my readings! (Please DM through one of my social medias or Discord to see my reading lists! 🥰)
 - 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
 - 🍡  Casually watching anime ~~& reading light-novels/mangas~~ via [MyAnimeList](https://myanimelist.net/profile/hypebeans)
 - 🎵  My music preferences are way too unique!
-- 👑  ~~プリコネ is my all-time favorite mobile game!~~ Investments are kings!
+- 👑  ~~音ゲー is my all-time favorite game genre!~~ Investments are kings!
 - 👄 EN/ID/JP/CN (A little)
 
 ## Skills 🐸✌️
