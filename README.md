@@ -3,7 +3,7 @@
 <br><br>
 ![Hypebeans Profile View Count](https://komarev.com/ghpvc/?username=hypebeans&style=flat-square&color=lightgrey)
 
-Click the link below the country flags to display another language: *(In development)* <br>
+Click one of the links below the country flags to display in another language: *(In development)* <br>
 <table>
 <tr>
   <th>
@@ -24,19 +24,19 @@ Click the link below the country flags to display another language: *(In develop
 </tr>
 <tr>
   <td>
-    <a align="center" href="https://www.youtube.com/watch?v=rhcDSzw-MOk">Bahasa Indonesia</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-ID.md">Bahasa Indonesia</a>
   </td>
   <td>
-    <a href="https://www.youtube.com/watch?v=rhcDSzw-MOk">English</a>
+    <a href="https://github.com/hypebeans/hypebeans"><b>English</b></a>
   </td>
   <td>
-    <a href="https://www.youtube.com/watch?v=rhcDSzw-MOk">日本語</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-JP.md">日本語</a>
   </td>
   <td>
-    <a href="https://www.youtube.com/watch?v=rhcDSzw-MOk">中文</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md">中文</a>
   </td>
   <td>
-    <a href="https://www.youtube.com/watch?v=rhcDSzw-MOk">Deutsch</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-DE.md">Deutsch</a>
   </td>
 </tr>
 </table>
@@ -93,4 +93,4 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 </a>
 </details>
 
-<italic>Last updated: 12 Jun 2023</italic>
+<italic>Last updated: 13 Jun 2023</italic>

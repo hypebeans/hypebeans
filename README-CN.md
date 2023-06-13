@@ -3,7 +3,7 @@
 <br><br>
 ![Hypebeans Profile View Count](https://komarev.com/ghpvc/?username=hypebeans&style=flat-square&color=lightgrey)
 
-Klik salah satu link dibawah bendera negara untuk ditampilkan dalam bahasa lain: *(Sedang dikembangkan)* <br>
+Click one of the links below the country flags to display in another language: *(In development)* <br>
 <table>
 <tr>
   <th>
@@ -24,7 +24,7 @@ Klik salah satu link dibawah bendera negara untuk ditampilkan dalam bahasa lain:
 </tr>
 <tr>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-ID.md"><b>Bahasa Indonesia</b></a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-ID.md">Bahasa Indonesia</a>
   </td>
   <td>
     <a href="https://github.com/hypebeans/hypebeans">English</a>
@@ -33,7 +33,7 @@ Klik salah satu link dibawah bendera negara untuk ditampilkan dalam bahasa lain:
     <a href="https://github.com/hypebeans/hypebeans/blob/main/README-JP.md">日本語</a>
   </td>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md">中文</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md"><b>中文</b></a>
   </td>
   <td>
     <a href="https://github.com/hypebeans/hypebeans/blob/main/README-DE.md">Deutsch</a>
@@ -43,24 +43,24 @@ Klik salah satu link dibawah bendera negara untuk ditampilkan dalam bahasa lain:
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-~~Saya adalah penerjemah, proofreader, dan desainer web freelance~~ Selamanya siswa 👁👄👁<br>
-Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah penggemar B&C!<br>
+~~I'm a freelance translator, proofreader and web designer.~~ Forever a student 👁👄👁<br>
+If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 
-## Beberapa Fakta
-- ☕️   Penggemar kopi dan desain
-- 🧗  Suka mendaki batu/*bouldering*, melakukan kegiatan outdoor, termasuk trekking, dan daki gunung
-- 🌱  Saat ini belajar mengenai hal-hal yang saya penasaran
-- 💪  Tujuan yang perlu saya capai di tahun 2023: Mampu menguasai Swift, Kotlin, Dart, dan lulus ujian sertifikasi Java Gold!
-- 👨🏻‍💻  Saya sering menggunakan [Goodreads](https://goodreads.com) untuk melacak progres pembacaan saya! (Mohon DM melalui salah satu media sosial saya atau Discord untuk melihat list bacaan saya! 🥰)
+## Some Facts
+- ☕️   Coffee and design enthusiast!
+- 🧗  Loves rock climbing, outdoor activities including trekking, and hiking!
+- 🌱  Currently learning stuffs that I'm curious about!
+- 💪  2023 goals I need to achieve: Able to master Swift, Kotlin, Dart, and pass the Java Gold certification exam!
+- 👨🏻‍💻  I often use [Goodreads](https://goodreads.com) to track my readings! (Please DM through one of my social medias or Discord to see my reading lists! 🥰)
 - 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
-- 🍡  Menonton anime~~& membaca light-novel/manga~~ secara kasual melalui [MyAnimeList](https://myanimelist.net/profile/hypebeans)
-- 🎵  Preferensi musik saya terlalu unik!
-- 👑  ~~音ゲー adalah genre permainan kesukaan saya sepanjang masa!~~ Investasi adalah raja!
-- 👄 EN/ID/JP/CN (Sedikit)
+- 🍡  Casually watching anime ~~& reading light-novels/mangas~~ via [MyAnimeList](https://myanimelist.net/profile/hypebeans)
+- 🎵  My music preferences are way too unique!
+- 👑  ~~音ゲー is my all-time favorite game genre!~~ Investments are kings!
+- 👄 EN/ID/JP/CN (A little)
 
-## Kemampuan 🐸✌️
+## Skills 🐸✌️
 
-#### Desain　📝
+#### Design　📝
 ![Hypebeans Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![Hypebeans Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
 ![Hypebeans XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=fff)
@@ -79,18 +79,18 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 ![Hypebeans Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Hypebeans Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
-## Statistik
+## Statistics
 <details>
-<summary>Buka ini untuk melihat progres kode saya secara keseluruhan 👁👄👁</summary>
+<summary>Open this to see my whole code progress 👁👄👁</summary>
 <a href="https://github.com/hypebeans">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypebeans&show_icons=true&text_color=fdfdfd&icon_color=fdfdfd&bg_color=191919&hide_title=true" alt="stat github untuk hypebeans" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypebeans&show_icons=true&text_color=fdfdfd&icon_color=fdfdfd&bg_color=191919&hide_title=true" alt="github stats for hypebeans" />
 </a>
 <a href="https://github.com/hypebeans">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypebeans&hide=java,html&&text_color=fdfdfd&icon_color=fdfdfd&bg_color=191919&hide_title=true" alt="stat repositori github untuk hypebeans" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypebeans&hide=java,html&&text_color=fdfdfd&icon_color=fdfdfd&bg_color=191919&hide_title=true" alt="github repository stats for hypebeans" />
 </a>
 <a href="https://github.com/hypebeans">
-  <img src="https://github-profile-trophy.vercel.app/?username=hypebeans" alt="stat piala github untuk hypebeans">
+  <img src="https://github-profile-trophy.vercel.app/?username=hypebeans" alt="github trophy stats for hypebeans">
 </a>
 </details>
 
-<italic>Update terakhir: 13 Jun 2023</italic>
+<italic>Last updated: 13 Jun 2023</italic>
