@@ -24,19 +24,19 @@ Klik salah satu link dibawah bendera negara untuk ditampilkan dalam bahasa lain:
 </tr>
 <tr>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-ID.md"><b>Bahasa Indonesia</b></a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-ID.md"><b>Bahasa</b></a>
   </td>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans">English</a>
+    <a href="https://github.com/hypebeans/hypebeans">Inggris</a>
   </td>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-JP.md">日本語</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-JP.md">Jepang</a>
   </td>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md">中文</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md">Mandarin</a>
   </td>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-DE.md">Deutsch</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-DE.md">Jerman</a>
   </td>
 </tr>
 </table>
@@ -73,7 +73,7 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 ![Hypebeans Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
 
 #### Mobile 📱
-*Coming soon (Currently studying)* 
+*Segera muncul (Saat ini sedang belajar)* 
 
 #### CL 🧑🏻‍💻
 ![Hypebeans Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
@@ -93,4 +93,4 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 </a>
 </details>
 
-<italic>Update terakhir: 13 Jun 2023</italic>
+<italic>Update terakhir: 18 Juni 2023</italic>

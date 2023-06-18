@@ -3,7 +3,7 @@
 <br><br>
 ![Hypebeans Profile View Count](https://komarev.com/ghpvc/?username=hypebeans&style=flat-square&color=lightgrey)
 
-Click one of the links below the country flags to display in another language: *(In development)* <br>
+单击国家标志下方的链接之一，以另一种语言显示： *(正在开发中)* <br>
 <table>
 <tr>
   <th>
@@ -24,26 +24,26 @@ Click one of the links below the country flags to display in another language: *
 </tr>
 <tr>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-ID.md">Bahasa Indonesia</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-ID.md">印尼语</a>
   </td>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans">English</a>
+    <a href="https://github.com/hypebeans/hypebeans">英语</a>
   </td>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-JP.md">日本語</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-JP.md">日语</a>
   </td>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md"><b>中文</b></a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md"><b>中文（汉语）</b></a>
   </td>
   <td>
-    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-DE.md">Deutsch</a>
+    <a href="https://github.com/hypebeans/hypebeans/blob/main/README-DE.md">德语</a>
   </td>
 </tr>
 </table>
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-~~I'm a freelance translator, proofreader and web designer.~~ Forever a student 👁👄👁<br>
+~~我是自由翻译、校对和网页设计师。~~ 永远是学生 👁👄👁<br>
 If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 
 ## Some Facts
@@ -79,9 +79,9 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 ![Hypebeans Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Hypebeans Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
-## Statistics
+## 统计
 <details>
-<summary>Open this to see my whole code progress 👁👄👁</summary>
+<summary>打开此查看我的整个代码进度 👁👄👁</summary>
 <a href="https://github.com/hypebeans">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hypebeans&show_icons=true&text_color=fdfdfd&icon_color=fdfdfd&bg_color=191919&hide_title=true" alt="github stats for hypebeans" />
 </a>
@@ -93,4 +93,4 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 </a>
 </details>
 
-<italic>Last updated: 13 Jun 2023</italic>
+<italic>上次更新时间：2023年6月18日</italic>
