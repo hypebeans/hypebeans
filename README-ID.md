@@ -73,7 +73,7 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 ![Hypebeans React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 ![Hypebeans PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![Hypebeans Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
-![Hypebeans Realm](ttps://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
+![Hypebeans Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
 
 #### Mobile 📱
 ![Hypebeans Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)

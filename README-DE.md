@@ -73,7 +73,7 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 ![Hypebeans React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 ![Hypebeans PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![Hypebeans Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
-![Hypebeans Realm](ttps://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
+![Hypebeans Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
 
 #### Mobile 📱
 ![Hypebeans Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)
@@ -82,7 +82,7 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 
 #### CL 🧑🏻‍💻
 ![Hypebeans Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=fff)
-![Hypebeans Git](https://img.shields.io/cbadge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Hypebeans Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 #### CI/CD 🏁
 ![Hypebeans Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
