@@ -1,5 +1,5 @@
-[![Hypebeans Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hypebeans)
-[![Hypebeans Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/hypebeans)
+[![ハイプビーンズ ハッカーランク](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/hypebeans)
+[![ハイプビーンズ クラウディング](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/hypebeans)
 <br><br>
 ![ハイプビーンズ プロファイルの表示数](https://komarev.com/ghpvc/?username=hypebeans&style=flat-square&color=lightgrey)
 
@@ -50,7 +50,7 @@
 - ☕️   コーヒーとデザイン愛好者！
 - 🧗  岩登り、トレッキングと登山をはじめとするアウトドア活動が大好きです！
 - 🌱  今、気になることを学んでいます！
-- 💪  2023年に達成すべき目標: Swift、Kotlin、Dartを習得し、Java Gold認定試験に合格する！
+- 💪  2024年に達成すべき目標: Swiftを習得し、IPA認定試験に合格し、より多くのハッカソンに参加できるようにする！
 - 👨🏻‍💻  私はよく[Goodreads](https://goodreads.com)を使って自分の読書を追跡します！(私のソーシャルメディア又はDiscordでDMして、私の読書リストをご覧ください！ 🥰)
 - 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
 - 🍡  [MyAnimeList](https://myanimelist.net/profile/hypebeans)で気軽にアニメを見る~~&ライトノベル/マンガを読む~~
@@ -63,21 +63,32 @@
 #### デザイン　📝
 ![Hypebeans Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![Hypebeans Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
+![Hypebeans InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=fff)
 ![Hypebeans XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=fff)
 ![Hypebeans Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=fff)
-[![Hypebeans Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@hypebeans)
+[![Hypebeans Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.figma.com/@hypebeans)
 
 #### ウェブ 💻
-![Hypebeans JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Hypebeans JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
+![Hypebeans React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 ![Hypebeans PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![Hypebeans Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
+![Hypebeans Realm](ttps://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
 
 #### モバイル 📱
-*近日公開予定（現在勉強中）* 
+![Hypebeans Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)
+![Hypebeans Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
+![Hypebeans Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 
 #### CL 🧑🏻‍💻
 ![Hypebeans Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Hypebeans Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+
+#### CI/CD 🏁
+![Hypebeans Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
+
+#### その他 👦🏻
+![Hypebeans Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff)
 
 ## 統計
 <details>
@@ -93,4 +104,4 @@
 </a>
 </details>
 
-<italic>最終更新日: 2023年6月18日</italic>
+<italic>最終更新日: 2024年02月04日</italic>

@@ -1,4 +1,4 @@
-[![Hypebeans Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hypebeans)
+[![Hypebeans Hackerrank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/hypebeans)
 [![Hypebeans Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/hypebeans)
 <br><br>
 ![Hypebeans Profile View Count](https://komarev.com/ghpvc/?username=hypebeans&style=flat-square&color=lightgrey)
@@ -50,7 +50,7 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 - ☕️   Penggemar kopi dan desain
 - 🧗  Suka mendaki batu/*bouldering*, melakukan kegiatan outdoor, termasuk trekking, dan daki gunung
 - 🌱  Saat ini belajar mengenai hal-hal yang saya penasaran
-- 💪  Tujuan yang perlu saya capai di tahun 2023: Mampu menguasai Swift, Kotlin, Dart, dan lulus ujian sertifikasi Java Gold!
+- 💪  Tujuan yang perlu saya capai di tahun 2023:  Mampu menguasai Swift, lulus ujian sertifikasi IPA dan berpartisipasi dalam lebih banyak hackathon!
 - 👨🏻‍💻  Saya sering menggunakan [Goodreads](https://goodreads.com) untuk melacak progres pembacaan saya! (Mohon DM melalui salah satu media sosial saya atau Discord untuk melihat list bacaan saya! 🥰)
 - 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
 - 🍡  Menonton anime~~& membaca light-novel/manga~~ secara kasual melalui [MyAnimeList](https://myanimelist.net/profile/hypebeans)
@@ -63,21 +63,32 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 #### Desain　📝
 ![Hypebeans Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![Hypebeans Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
+![Hypebeans InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=fff)
 ![Hypebeans XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=fff)
 ![Hypebeans Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=fff)
-[![Hypebeans Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@hypebeans)
+[![Hypebeans Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.figma.com/@hypebeans)
 
-#### Web 💻
-![Hypebeans JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+#### Web & Database 💻
+![Hypebeans JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
+![Hypebeans React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 ![Hypebeans PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![Hypebeans Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
+![Hypebeans Realm](ttps://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
 
 #### Mobile 📱
-*Segera muncul (Saat ini sedang belajar)* 
+![Hypebeans Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)
+![Hypebeans Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
+![Hypebeans Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 
 #### CL 🧑🏻‍💻
-![Hypebeans Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Hypebeans Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=fff)
 ![Hypebeans Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+
+#### CI/CD 🏁
+![Hypebeans Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
+
+#### Lainnya 👦🏻
+![Hypebeans Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff)
 
 ## Statistik
 <details>
@@ -91,6 +102,7 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 <a href="https://github.com/hypebeans">
   <img src="https://github-profile-trophy.vercel.app/?username=hypebeans" alt="stat piala github untuk hypebeans">
 </a>
+
 </details>
 
-<italic>Update terakhir: 18 Juni 2023</italic>
+<italic>Update terakhir: 4 Februari 2024</italic>

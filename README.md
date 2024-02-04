@@ -1,4 +1,4 @@
-[![Hypebeans Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hypebeans)
+[![Hypebeans Hackerrank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/hypebeans)
 [![Hypebeans Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/hypebeans)
 <br><br>
 ![Hypebeans Profile View Count](https://komarev.com/ghpvc/?username=hypebeans&style=flat-square&color=lightgrey)
@@ -50,7 +50,7 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 - ☕️   Coffee and design enthusiast!
 - 🧗  Loves rock climbing, outdoor activities including trekking, and hiking!
 - 🌱  Currently learning stuffs that I'm curious about!
-- 💪  2023 goals I need to achieve: Able to master Swift, Kotlin, Dart, and pass the Java Gold certification exam!
+- 💪  2024 goals I need to achieve: Able to master Swift, pass the IPA Certification Exam and participate more hackathons!
 - 👨🏻‍💻  I often use [Goodreads](https://goodreads.com) to track my readings! (Please DM through one of my social medias or Discord to see my reading lists! 🥰)
 - 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
 - 🍡  Casually watching anime ~~& reading light-novels/mangas~~ via [MyAnimeList](https://myanimelist.net/profile/hypebeans)
@@ -63,21 +63,33 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 #### Design　📝
 ![Hypebeans Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![Hypebeans Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
+![Hypebeans InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=fff)
 ![Hypebeans XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=fff)
 ![Hypebeans Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=fff)
-[![Hypebeans Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@hypebeans)
+[![Hypebeans Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.figma.com/@hypebeans)
 
-#### Web 💻
-![Hypebeans JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+#### Web & Database 💻
+![Hypebeans JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
+![Hypebeans React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 ![Hypebeans PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![Hypebeans Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
+![Hypebeans Realm](ttps://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
 
 #### Mobile 📱
-*Coming soon (Currently studying)* 
+![Hypebeans Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)
+![Hypebeans Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
+![Hypebeans Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 
 #### CL 🧑🏻‍💻
-![Hypebeans Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Hypebeans Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Hypebeans Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=fff)
+![Hypebeans Git](https://img.shields.io/cbadge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+
+#### CI/CD 🏁
+![Hypebeans Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
+![Hypebeans Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+
+#### Others 👦🏻
+![Hypebeans Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff)
 
 ## Statistics
 <details>
@@ -93,4 +105,4 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 </a>
 </details>
 
-<italic>Last updated: 13 Jun 2023</italic>
+<italic>Last updated: 04 Feb 2024</italic>
