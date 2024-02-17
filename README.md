@@ -18,9 +18,9 @@ Click one of the links below the country flags to display in another language: *
   <th>
     <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/677ffca1-4350-4e51-8465-f39a79127f8c" height="48" />
   </th>
-  <th>
+  <!-- <th>
     <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/64477e36-fafd-4163-a1c8-620988b4bcf4" height="48" />
-  </th>
+  </th> -->
 </tr>
 <tr>
   <td>
@@ -35,9 +35,9 @@ Click one of the links below the country flags to display in another language: *
   <td>
     <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md">中文</a>
   </td>
-  <td>
+  <!-- <td>
     <a href="https://github.com/hypebeans/hypebeans/blob/main/README-DE.md">Deutsch</a>
-  </td>
+  </td> -->
 </tr>
 </table>
 
@@ -49,8 +49,8 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 ## Some Facts
 - ☕️   Coffee and design enthusiast!
 - 🧗  Loves rock climbing, outdoor activities including trekking, and hiking!
-- 🌱  Currently learning stuffs that I'm curious about!
-- 💪  2024 goals I need to achieve: Able to master Swift, pass the IPA Certification Exam and participate more hackathons!
+- 🌱  Currently learning stuff that I'm curious about!
+- 💪  2024 goals I need to achieve: Able to master Swift, pass the IPA Certification Exam and participate in more hackathons!
 - 👨🏻‍💻  I often use [Goodreads](https://goodreads.com) to track my readings! (Please DM through one of my social medias or Discord to see my reading lists! 🥰)
 - 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
 - 🍡  Casually watching anime ~~& reading light-novels/mangas~~ via [MyAnimeList](https://myanimelist.net/profile/hypebeans)
@@ -72,8 +72,10 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 ![Hypebeans JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Hypebeans React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 ![Hypebeans PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
+![Hypebeans MySQL](https://img.shields.io/badge/MySQl-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Hypebeans Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
 ![Hypebeans Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
+![Hypebeans Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=fff)
 
 #### Mobile 📱
 ![Hypebeans Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)
@@ -105,4 +107,4 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 </a>
 </details>
 
-<italic>Last updated: 04 Feb 2024</italic>
+<italic>Last updated: 17 Feb 2024</italic>

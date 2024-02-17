@@ -18,9 +18,9 @@ Klik salah satu link dibawah bendera negara untuk ditampilkan dalam bahasa lain:
   <th>
     <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/677ffca1-4350-4e51-8465-f39a79127f8c" height="48" />
   </th>
-  <th>
+  <!-- <th>
     <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/64477e36-fafd-4163-a1c8-620988b4bcf4" height="48" />
-  </th>
+  </th> -->
 </tr>
 <tr>
   <td>
@@ -35,13 +35,13 @@ Klik salah satu link dibawah bendera negara untuk ditampilkan dalam bahasa lain:
   <td>
     <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md">Mandarin</a>
   </td>
-  <td>
+  <!-- <td>
     <a href="https://github.com/hypebeans/hypebeans/blob/main/README-DE.md">Jerman</a>
-  </td>
+  </td> -->
 </tr>
 </table>
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Halo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ~~Saya adalah penerjemah, proofreader, dan desainer web freelance~~ Selamanya siswa 👁👄👁<br>
 Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah penggemar B&C!<br>
@@ -50,7 +50,7 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 - ☕️   Penggemar kopi dan desain
 - 🧗  Suka mendaki batu/*bouldering*, melakukan kegiatan outdoor, termasuk trekking, dan daki gunung
 - 🌱  Saat ini belajar mengenai hal-hal yang saya penasaran
-- 💪  Tujuan yang perlu saya capai di tahun 2023:  Mampu menguasai Swift, lulus ujian sertifikasi IPA dan berpartisipasi dalam lebih banyak hackathon!
+- 💪  Tujuan yang perlu saya capai di tahun 2024:  Mampu menguasai Swift, lulus ujian sertifikasi IPA dan berpartisipasi dalam lebih banyak hackathon!
 - 👨🏻‍💻  Saya sering menggunakan [Goodreads](https://goodreads.com) untuk melacak progres pembacaan saya! (Mohon DM melalui salah satu media sosial saya atau Discord untuk melihat list bacaan saya! 🥰)
 - 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
 - 🍡  Menonton anime~~& membaca light-novel/manga~~ secara kasual melalui [MyAnimeList](https://myanimelist.net/profile/hypebeans)
@@ -72,8 +72,10 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 ![Hypebeans JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Hypebeans React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 ![Hypebeans PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
+![Hypebeans MySQL](https://img.shields.io/badge/MySQl-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Hypebeans Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
 ![Hypebeans Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
+![Hypebeans Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=fff)
 
 #### Mobile 📱
 ![Hypebeans Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)
@@ -105,4 +107,4 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 
 </details>
 
-<italic>Update terakhir: 4 Februari 2024</italic>
+<italic>Update terakhir: 17 Februari 2024</italic>

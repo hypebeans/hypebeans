@@ -1,7 +1,7 @@
 [![ハイプビーンズ ハッカーランク](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/hypebeans)
 [![ハイプビーンズ クラウディング](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/hypebeans)
 <br><br>
-![ハイプビーンズ プロファイルの表示数](https://komarev.com/ghpvc/?username=hypebeans&style=flat-square&color=lightgrey)
+![Hypebeans Profile View Count](https://komarev.com/ghpvc/?username=hypebeans&style=flat-square&color=lightgrey)
 
 各の国フラグの下にあるリンクのいずれかをクリックすると、他の言語で表示されます。 *(開発中)* <br>
 <table>
@@ -35,9 +35,9 @@
   <td>
     <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md">中国語</a>
   </td>
-  <td>
+  <!-- <td>
     <a href="https://github.com/hypebeans/hypebeans/blob/main/README-DE.md">ドイツ語</a>
-  </td>
+  </td> -->
 </tr>
 </table>
 
@@ -48,7 +48,7 @@
 
 ## いくつかの事実
 - ☕️   コーヒーとデザイン愛好者！
-- 🧗  岩登り、トレッキングと登山をはじめとするアウトドア活動が大好きです！
+- 🧗  岩登り、トレッキングと登山をはじめとするアウトドア活動が大好き！
 - 🌱  今、気になることを学んでいます！
 - 💪  2024年に達成すべき目標: Swiftを習得し、IPA認定試験に合格し、より多くのハッカソンに参加できるようにする！
 - 👨🏻‍💻  私はよく[Goodreads](https://goodreads.com)を使って自分の読書を追跡します！(私のソーシャルメディア又はDiscordでDMして、私の読書リストをご覧ください！ 🥰)
@@ -68,12 +68,14 @@
 ![Hypebeans Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=fff)
 [![Hypebeans Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.figma.com/@hypebeans)
 
-#### ウェブ 💻
+#### ウェブとデーターベース 💻
 ![Hypebeans JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Hypebeans React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 ![Hypebeans PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
+![Hypebeans MySQL](https://img.shields.io/badge/MySQl-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Hypebeans Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
 ![Hypebeans Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
+![Hypebeans Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=fff)
 
 #### モバイル 📱
 ![Hypebeans Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)
@@ -104,4 +106,4 @@
 </a>
 </details>
 
-<italic>最終更新日: 2024年02月04日</italic>
+<italic>最終更新日: 2024年02月17日</italic>

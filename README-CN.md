@@ -19,9 +19,9 @@
   <th>
     <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/677ffca1-4350-4e51-8465-f39a79127f8c" height="48" />
   </th>
-  <th>
+  <!-- <th>
     <img style="margin-right: 5px;" src="https://github.com/hypebeans/hypebeans/assets/24372255/64477e36-fafd-4163-a1c8-620988b4bcf4" height="48" />
-  </th>
+  </th> -->
 </tr>
 <tr>
   <td>
@@ -36,27 +36,27 @@
   <td>
     <a href="https://github.com/hypebeans/hypebeans/blob/main/README-CN.md"><b>中文（汉语）</b></a>
   </td>
-  <td>
+  <!-- <td>
     <a href="https://github.com/hypebeans/hypebeans/blob/main/README-DE.md">德语</a>
-  </td>
+  </td> -->
 </tr>
 </table>
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# 嘿! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ~~我是自由翻译、校对和网页设计师。~~ 永远是学生 👁👄👁<br>
 如果你在几个Discord服上认识我，我也是一个B&C爱好者！<br>
 
-## Some Facts
+## 一些事实
 - ☕️   咖啡和设计爱好者！
 - 🧗  喜欢攀岩、户外活动包括徒步和远足！
 - 🌱  目前正在学习我好奇的东西！
 - 💪  2024年我需要实现的目标 能够掌握 Swift，通过 IPA 认证考试，参加更多的黑客马拉松！
 - 👨🏻‍💻  我经常使用[Goodreads](https://goodreads.com)来跟踪我的读数！（请通过我的社交媒体或Discord DM私信我的阅读书目！🥰)
 - 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
-- 🍡  Casually watching anime ~~& reading light-novels/mangas~~ via [MyAnimeList](https://myanimelist.net/profile/hypebeans)
-- 🎵  My music preferences are way too unique!
-- 👑  ~~音ゲー is my all-time favorite game genre!~~ Investments are kings!
+- 🍡  随便看动漫 ~~& 读轻小说或漫画~~ 通过 [MyAnimeList](https://myanimelist.net/profile/hypebeans)
+- 🎵  我的音乐偏好太独特了!
+- 👑  ~~音乐游戏是我一直以来最喜欢的游戏类型!~~ 投资为王！
 - 👄 英/印尼/日/中 (一点儿)
 
 ## 技能 🐸✌️
@@ -69,12 +69,14 @@
 ![Hypebeans Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=fff)
 [![Hypebeans Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://www.figma.com/@hypebeans)
 
-#### 网站 💻
+#### 网站和数据库 💻
 ![Hypebeans JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
 ![Hypebeans React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 ![Hypebeans PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
+![Hypebeans MySQL](https://img.shields.io/badge/MySQl-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Hypebeans Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
 ![Hypebeans Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=fff)
+![Hypebeans Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=fff)
 
 #### 移动 📱
 ![Hypebeans Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=fff)
@@ -105,4 +107,4 @@
 </a>
 </details>
 
-<italic>上次更新时间：2023年02月04日</italic>
+<italic>上次更新时间：2023年02月17日</italic>
