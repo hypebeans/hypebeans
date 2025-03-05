@@ -44,16 +44,14 @@ Klik salah satu link dibawah bendera negara untuk ditampilkan dalam bahasa lain:
 # Halo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ~~Saya adalah penerjemah, proofreader, dan desainer web freelance~~ Selamanya siswa 👁👄👁<br>
-Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah penggemar B&C!<br>
+Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah penggemar berkeliling!<br>
 
 ## Beberapa Fakta
 - ☕️   Penggemar kopi dan desain
 - 🧗  Suka mendaki batu/*bouldering*, melakukan kegiatan outdoor, termasuk trekking, dan daki gunung
 - 🌱  Saat ini belajar mengenai hal-hal yang saya penasaran
-- 💪  Tujuan yang perlu saya capai di tahun 2024:  Mampu menguasai Swift, lulus ujian sertifikasi IPA dan berpartisipasi dalam lebih banyak hackathon!
+- 💪  Tujuan yang perlu saya capai di tahun 2025:  Mampu menguasai Swift, dan lebih banyak keliling dunia/domestik!✈️
 - 👨🏻‍💻  Saya sering menggunakan [Goodreads](https://goodreads.com) untuk melacak progres pembacaan saya! (Mohon DM melalui salah satu media sosial saya atau Discord untuk melihat list bacaan saya! 🥰)
-- 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
-- 🍡  Menonton anime~~& membaca light-novel/manga~~ secara kasual melalui [MyAnimeList](https://myanimelist.net/profile/hypebeans)
 - 🎵  Preferensi musik saya terlalu unik!
 - 👑  ~~音ゲー adalah genre permainan kesukaan saya sepanjang masa!~~ Investasi adalah raja!
 - 👄 EN/ID/JP/CN (Sedikit)
@@ -87,7 +85,7 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 ![Hypebeans Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 #### CI/CD 🏁
-![Hypebeans Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
+![Hypebeans Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 #### Lainnya 👦🏻
 ![Hypebeans Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff)
@@ -107,4 +105,4 @@ Kalau anda mengetahui saya dari berbagai server Discord, saya juga adalah pengge
 
 </details>
 
-<italic>Update terakhir: 17 Februari 2024</italic>
+<italic>Update terakhir: 05 Maret 2025</italic>

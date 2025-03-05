@@ -45,16 +45,14 @@
 # 嘿! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ~~我是自由翻译、校对和网页设计师。~~ 永远是学生 👁👄👁<br>
-如果你在几个Discord服上认识我，我也是一个B&C爱好者！<br>
+如果你在几个Discord服上认识我，我也是一个旅行爱好者！<br>
 
 ## 一些事实
 - ☕️   咖啡和设计爱好者！
 - 🧗  喜欢攀岩、户外活动包括徒步和远足！
 - 🌱  目前正在学习我好奇的东西！
-- 💪  2024年我需要实现的目标 能够掌握 Swift，通过 IPA 认证考试，参加更多的黑客马拉松！
+- 💪  2025年我需要实现的目标 能够掌握 Swift，旅行出差更多！✈️
 - 👨🏻‍💻  我经常使用[Goodreads](https://goodreads.com)来跟踪我的读数！（请通过我的社交媒体或Discord DM私信我的阅读书目！🥰)
-- 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
-- 🍡  随便看动漫 ~~& 读轻小说或漫画~~ 通过 [MyAnimeList](https://myanimelist.net/profile/hypebeans)
 - 🎵  我的音乐偏好太独特了!
 - 👑  ~~音乐游戏是我一直以来最喜欢的游戏类型!~~ 投资为王！
 - 👄 英/印尼/日/中 (一点儿)
@@ -88,7 +86,7 @@
 ![Hypebeans Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 #### CI/CD 🏁
-![Hypebeans Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
+![Hypebeans Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 #### 其他的 👦🏻
 ![Hypebeans Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff)
@@ -107,4 +105,4 @@
 </a>
 </details>
 
-<italic>上次更新时间：2023年02月17日</italic>
+<italic>上次更新时间：2025年03月05日</italic>

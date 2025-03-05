@@ -44,16 +44,14 @@ Click one of the links below the country flags to display in another language: *
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ~~I'm a freelance translator, proofreader and web designer.~~ Forever a student 👁👄👁<br>
-If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
+If you know me from several Discord servers, I'm also a travel enthusiast!<br>
 
 ## Some Facts
 - ☕️   Coffee and design enthusiast!
 - 🧗  Loves rock climbing, outdoor activities including trekking, and hiking!
 - 🌱  Currently learning stuff that I'm curious about!
-- 💪  2024 goals I need to achieve: Able to master Swift, pass the IPA Certification Exam and participate in more hackathons!
+- 💪  2025 goals I need to achieve: Able to master Swift and travel more! ✈️
 - 👨🏻‍💻  I often use [Goodreads](https://goodreads.com) to track my readings! (Please DM through one of my social medias or Discord to see my reading lists! 🥰)
-- 💻  Developer_DAO [#5097](https://pixel-devs.developerdao.com/?developerId=5097)
-- 🍡  Casually watching anime ~~& reading light-novels/mangas~~ via [MyAnimeList](https://myanimelist.net/profile/hypebeans)
 - 🎵  My music preferences are way too unique!
 - 👑  ~~音ゲー is my all-time favorite game genre!~~ Investments are kings!
 - 👄 EN/ID/JP/CN (A little)
@@ -87,7 +85,6 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 ![Hypebeans Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 #### CI/CD 🏁
-![Hypebeans Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
 ![Hypebeans Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 #### Others 👦🏻
@@ -107,4 +104,4 @@ If you know me from several Discord servers, I'm also a B&C enthusiast!<br>
 </a>
 </details>
 
-<italic>Last updated: 17 Feb 2024</italic>
+<italic>Last updated: 5 Mar 2025</italic>
